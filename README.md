@@ -27,3 +27,4 @@ Email. info@imagitechstudios.com
 
 * BBD00 Initial Commit
 * BBD01 Created project files and GDD
+* BBD02 Imported Main Menu Template and Sprite Assets
