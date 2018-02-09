@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 8febc5ff6b39c9a42bf1775f0dbbebc3
+timeCreated: 1518172707
+licenseType: Pro
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Capacity Heavy
+  fontNames:
+  - Capacity Heavy
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
