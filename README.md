@@ -33,3 +33,4 @@ Email. info@imagitechstudios.com
 * BBD05 Fixed duplicate music player bug
 * BBD06 Added ball sprite with bottom of screen collision detection
 * BBD07 Added level manager
+* BBD08 Added paddle with collision detection
