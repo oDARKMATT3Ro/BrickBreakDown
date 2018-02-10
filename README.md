@@ -31,3 +31,4 @@ Email. info@imagitechstudios.com
 * BBD03 Created Main Menu, Pause Menu, and Level_01 Scenes
 * BBD04 Added background music player controller
 * BBD05 Fixed duplicate music player bug
+* BBD06 Added ball sprite with bottom of screen collision detection
