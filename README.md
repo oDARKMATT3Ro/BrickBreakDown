@@ -30,3 +30,4 @@ Email. info@imagitechstudios.com
 * BBD02 Imported Main Menu Template and Sprite Assets
 * BBD03 Created Main Menu, Pause Menu, and Level_01 Scenes
 * BBD04 Added background music player controller
+* BBD05 Fixed duplicate music player bug
