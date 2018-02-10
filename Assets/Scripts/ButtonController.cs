@@ -90,7 +90,7 @@ public class ButtonController : MonoBehaviour, IPointerEnterHandler, IPointerExi
 
 	public void Quit()
 	{
-		Application.Quit (); // This line quits the application.
+		Application.Quit(); // This line quits the application.
 	}
 
 	public void LoadWebsite(string URLToOpen) // Maybe you want your users to be able to contact you?
