@@ -34,3 +34,4 @@ Email. info@imagitechstudios.com
 * BBD06 Added ball sprite with bottom of screen collision detection
 * BBD07 Added level manager
 * BBD08 Added paddle with collision detection
+* BBD09 Added bounce to ball
