@@ -35,3 +35,4 @@ Email. info@imagitechstudios.com
 * BBD07 Added level manager
 * BBD08 Added paddle with collision detection
 * BBD09 Added bounce to ball
+* BBD10 Binded paddle to mouse movement
