@@ -9,7 +9,7 @@ public class ScreenBottomCollider : MonoBehaviour {
 
     void OnTriggerEnter2D(Collider2D trigger)
     {
-        SceneManager.LoadScene("WinScreen");
+        SceneManager.LoadScene("_WinScreen");
     }
 
     private void OnCollisionEnter2D(Collision2D collision)

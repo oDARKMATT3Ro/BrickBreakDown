@@ -14,7 +14,10 @@ public class Brick : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-
+        if (timesHit >= maxHits)
+        {
+            Destroy(gameObject);
+        }
 	}
 
     private void OnCollisionEnter2D(Collision2D collision)

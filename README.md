@@ -39,3 +39,4 @@ Email. info@imagitechstudios.com
 * BBD11 Setup ball launch on mouse click
 * BBD12 Added screen boundary walls and changed gravity scale
 * BBD13 Created brick rows by color for level 01
+* BBD14 Created level maker prefabs, Level_02, Level_03, and destroy bricks when hit
