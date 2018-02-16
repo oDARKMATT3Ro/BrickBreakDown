@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class ScreenBottomCollider : MonoBehaviour {
 
@@ -8,12 +9,11 @@ public class ScreenBottomCollider : MonoBehaviour {
 
     void OnTriggerEnter2D(Collider2D trigger)
     {
-        print("Trigger");
-        levelManager.LoadLevel("WinScreen");
+        SceneManager.LoadScene("WinScreen");
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        print("Collision");
+
     }
 }

@@ -36,3 +36,4 @@ Email. info@imagitechstudios.com
 * BBD08 Added paddle with collision detection
 * BBD09 Added bounce to ball
 * BBD10 Binded paddle to mouse movement
+* BBD11 Setup ball launch on mouse click
