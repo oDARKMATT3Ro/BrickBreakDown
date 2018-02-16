@@ -38,3 +38,4 @@ Email. info@imagitechstudios.com
 * BBD10 Binded paddle to mouse movement
 * BBD11 Setup ball launch on mouse click
 * BBD12 Added screen boundary walls and changed gravity scale
+* BBD13 Created brick rows by color for level 01
