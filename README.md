@@ -40,3 +40,4 @@ Email. info@imagitechstudios.com
 * BBD12 Added screen boundary walls and changed gravity scale
 * BBD13 Created brick rows by color for level 01
 * BBD14 Created level maker prefabs, Level_02, Level_03, and destroy bricks when hit
+* BBD15 Added cracked bricks, sprite change when hit, and project clean up

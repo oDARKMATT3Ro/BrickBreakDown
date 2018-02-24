@@ -5,11 +5,12 @@ using UnityEngine.SceneManagement;
 
 public class ScreenBottomCollider : MonoBehaviour {
 
-    public LevelManager levelManager;
+    private LevelManager levelManager;
 
     void OnTriggerEnter2D(Collider2D trigger)
     {
-        SceneManager.LoadScene("_WinScreen");
+        levelManager = GameObject.FindObjectOfType<LevelManager>();
+        SceneManager.LoadScene("_LoseScreen");
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
