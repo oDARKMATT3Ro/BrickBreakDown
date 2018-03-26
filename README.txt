@@ -1,15 +1,10 @@
 # BrickBreakDown
-Brick Break Down is a classic block-breaking game similar to the 1976 hit Breakout released by Atari, Inc.
+Brick Break Down is a classic block-breaking game similar to the 1976 hit Breakout released by Atari, Inc. and made in Unity.
 
-Copyright ImagiTech Studios, LLC 2018. 
-For further information on ImagiTech Studios, see [here](http://www.imagitechstudios.com/) .
-
-
-You're welcome to download, fork or do whatever else legal with all the files!
-
+Created and Copyright © Geoff Goeres-Hill and ImagiTech Studios, LLC 2018.
+For further information on Geoff Goeres-Hill and ImagiTech Studios, see [here](https://www.imagitechstudios.com/) .
 
 Enjoy!
-
 
 ImagiTech Studios, LLC
 
@@ -41,3 +36,4 @@ Email. info@imagitechstudios.com
 * BBD13 Created brick rows by color for level 01
 * BBD14 Created level maker prefabs, Level_02, Level_03, and destroy bricks when hit
 * BBD15 Added cracked bricks, sprite change when hit, and project clean up
+* BBD16 Misc. updates and added splash screen

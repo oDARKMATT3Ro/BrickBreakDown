@@ -90,8 +90,14 @@ public class ButtonController : MonoBehaviour, IPointerEnterHandler, IPointerExi
 
 	public void Quit()
 	{
-		Application.Quit(); // This line quits the application.
-	}
+        // Quit the application inside Unity Editor
+        #if UNITY_EDITOR
+        UnityEditor.EditorApplication.isPlaying = false;
+        #endif
+
+        // Quit the application
+        Application.Quit();
+    }
 
 	public void LoadWebsite(string URLToOpen) // Maybe you want your users to be able to contact you?
 	{
