@@ -26,7 +26,7 @@ public class Ball : MonoBehaviour {
             {
                 print("Mouse clicked, launch ball.");
                 hasStarted = true;
-                this.GetComponent<Rigidbody2D>().velocity = new Vector2(2f, 10f);
+                this.GetComponent<Rigidbody2D>().velocity = new Vector2(2f, 8f);
             }
         }
 	}

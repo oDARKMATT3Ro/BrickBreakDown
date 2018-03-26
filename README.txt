@@ -37,3 +37,4 @@ Email. info@imagitechstudios.com
 * BBD14 Created level maker prefabs, Level_02, Level_03, and destroy bricks when hit
 * BBD15 Added cracked bricks, sprite change when hit, and project clean up
 * BBD16 Misc. updates and added splash screen
+* BBD17 Consolidated hit count and added invincible onyx block
