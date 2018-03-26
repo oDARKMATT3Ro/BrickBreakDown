@@ -38,3 +38,4 @@ Email. info@imagitechstudios.com
 * BBD15 Added cracked bricks, sprite change when hit, and project clean up
 * BBD16 Misc. updates and added splash screen
 * BBD17 Consolidated hit count and added invincible onyx block
+* BBD18 Created static var to count breakable blocks to change level
